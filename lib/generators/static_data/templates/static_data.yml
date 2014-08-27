@@ -1,0 +1,10 @@
+gender:
+  male: Male
+  female: Female
+numbers:
+  - one
+  - two
+  - three
+yes_no:
+  'yes': 'Yes'
+  'no': 'No'
